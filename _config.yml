@@ -15,7 +15,7 @@ timezone:
 favicon: /assets/img/favicon.ico
 
 google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
+disqus_shortname: https-suu978-github-io-suu97
 
 user:
   name: SuJeong
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       comment: true   
- # disqus_shortname : https-suu978-github-io-suu97
+
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown 
