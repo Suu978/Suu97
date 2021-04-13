@@ -46,5 +46,3 @@ show_drafts: null
 limit_posts: 0
 future:      false
 unpublished: false
-related_posts_section:
-  max_count:        10
